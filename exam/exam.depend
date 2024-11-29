@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731955727 source:c:\users\96650\onedrive\desktop\iti\c++\exam\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1732654795 source:c:\users\96650\onedrive\desktop\iti\c++\exam\main.cpp
+	<iostream>
+
